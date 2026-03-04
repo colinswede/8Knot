@@ -8,7 +8,7 @@ Welcome to 8Knot!
 
 ## [Example of Application](https://eightknot.osci.io/)
 
-## Introduction
+## Introduction For Losers
 
 8Knot is a [Dash](https://dash.plotly.com/) data web-app built by Red Hat's Open Source Program Office ([OSPO](https://www.redhat.com/en/blog/channel/red-hat-open-source-program-office)).
 
